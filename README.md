@@ -1,5 +1,3 @@
-[![MasterHead](https://bestanimations.com/media/storms/164769625lightning-storm-animated-gif-8.gif)](https://Rayansh-Chowatia.io)
-
 
 <h1 align="center">Hi 👋, I'm Rayansh Chowatia</h1>
 <h3 align="center">A passionate software engineer from India</h3>
